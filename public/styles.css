@@ -1,12 +1,12 @@
 /* Shared brand tokens. Change these after you agree on your brand direction.
    Both the storefront and the live style guide use this file. */
 :root {
-  --color-paper: #f6f5f0;
-  --color-ink: #171a18;
-  --color-muted: #5a615b;
-  --color-line: #d1d5cc;
-  --color-accent: #e3ef56;
-  --color-soft: #e8eae1;
+  --color-paper: #f8f5ef;
+  --color-ink: #252822;
+  --color-muted: #5c6058;
+  --color-line: #d8d2c7;
+  --color-accent: #dfc6b2;
+  --color-soft: #eee8df;
   --color-white: #fff;
   --color-danger: #992e28;
   --font-body:
@@ -307,6 +307,31 @@ p + p {
 
 .product-information h1 {
   margin-top: 1.6rem;
+}
+
+.min-headline {
+  max-width: 11ch;
+  font-size: clamp(3rem, 5.3vw, 5.35rem);
+  line-height: 0.99;
+  letter-spacing: -0.075em;
+  text-wrap: balance;
+}
+
+.hero-action {
+  margin-top: 1.25rem;
+}
+
+.styling-tip {
+  max-width: 430px;
+  margin-top: 1.5rem;
+  padding: 1rem 1.1rem;
+  border-left: 2px solid var(--color-accent);
+  background: var(--color-soft);
+}
+
+.styling-tip p {
+  margin-top: 0.35rem;
+  font-size: 0.8rem;
 }
 
 .product-intro {
@@ -971,6 +996,10 @@ legend {
     font-size: clamp(3.4rem, 7vw, 5rem);
   }
 
+  .product-information .min-headline {
+    font-size: clamp(3rem, 5.3vw, 5.35rem);
+  }
+
   .product-information {
     padding-top: 0.5rem;
   }
@@ -1076,6 +1105,10 @@ legend {
   .product-information h1 {
     font-size: clamp(4.2rem, 13vw, 7rem);
     margin-top: 1rem;
+  }
+
+  .product-information .min-headline {
+    font-size: clamp(3.2rem, 11vw, 5.3rem);
   }
 
   .product-intro {
