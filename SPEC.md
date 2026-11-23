@@ -17,13 +17,13 @@ The product stays the same white T-shirt in both previews. The baseline has a si
 
 ## Audience hypotheses
 
-| Tiny card                    | Primary audience                                                                                                 | Secondary audience                                                                              |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Tiny card                    | Primary audience                                                                                                 | Secondary audience                                                                                         |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | Situation                    | Someone who does not know what else to wear and needs a simple shirt to throw on; broad audience is a hypothesis | Someone who wants an understated shirt and pays attention to presentation, silhouette, and garment details |
-| Goal or meaning              | An easy default when getting dressed feels uncertain                                                             | Understand the design and whether the garment suits the intended use                            |
-| Concern                      | Not chosen yet                                                                                                   | A minimal page may omit useful product facts                                                     |
-| Page should help them decide | What to wear more easily and with less time spent pondering (learner paraphrase)                                 | Whether the shirt suits their preferences, using only verified product information              |
-| Evidence                     | Learner-confirmed design hypothesis on 2026-11-23; not validated                                                | Learner-confirmed contrasting design hypothesis on 2026-11-23; not validated                     |
+| Goal or meaning              | An easy default when getting dressed feels uncertain                                                             | Understand the design and whether the garment suits the intended use                                       |
+| Concern                      | Not chosen yet                                                                                                   | A minimal page may omit useful product facts                                                               |
+| Page should help them decide | What to wear more easily and with less time spent pondering (learner paraphrase)                                 | Whether the shirt suits their preferences, using only verified product information                         |
+| Evidence                     | Learner-confirmed design hypothesis on 2026-11-23; not validated                                                 | Learner-confirmed contrasting design hypothesis on 2026-11-23; not validated                               |
 
 ## Early brand brief
 
@@ -85,7 +85,6 @@ Keep when:
 ## Later
 
 No follow-up is selected. After keeping `BRAND-001`, choose one next cycle: perhaps a brand story, a supported fit guide, or richer demo-bag behavior. Agree its scope and add one new spec ID at that time.
-
 
 ## Competitor research review
 
