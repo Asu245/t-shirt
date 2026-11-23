@@ -34,13 +34,13 @@ I reviewed the official US T-shirt collection or fit/product pages linked below.
 
 ### 3. Everlane — materials and product transparency
 
-- **Original sources:** [Men's tees and tanks — Everlane](https://www.everlane.com/collections/mens-tees-and-tanks), [The Essential Organic Crew — Everlane](https://www.everlane.com/products/mens-essential-organic-crew-uniform-white), and [Midweight Tee — Everlane](https://www.everlane.com/products/mens-classic-tee-white).
-- **Source type:** Official retailer collection and product pages.
+- **Original source:** [Men's tees and tanks — Everlane](https://www.everlane.com/collections/mens-tees-and-tanks).
+- **Source type:** Official retailer collection page and its linked product-information categories.
 - **Date checked:** 2026-11-23.
-- **Observed page content:** The collection offers categories including Essential, Archive, Midweight, Waffle, and Pique. Product pages provide fit descriptions, size guidance, material composition, care instructions, and—in applicable product listings—certification details.
+- **Observed page content:** The collection organizes tees by fabric/category labels including Essential, Archive, Midweight, Waffle, and Pique. Its FAQ discusses organic cotton and recycled fibers, everyday/layering use, and cotton-shirt care. These are retailer-level statements; this review did not independently verify every product's composition or certification.
 - **What this suggests:** Specific product facts can do more persuasive work than broad claims such as “premium” or “sustainable.” A visitor can inspect what a garment is made from and how it is described.
 - **Evidence vs. interpretation:** The named categories and listed product details are observations. The conclusion that this supports trust is an interpretation, not a measured result.
-- **Possible Min application:** Add a product-facts area only when Min has verified composition, care, fit, and sourcing information. Keep unknown details explicitly unknown rather than borrowing another brand's claims.
+- **Possible Min application:** Add a product-facts area only when Min has verified composition, care, fit, and sourcing information. Check the exact product detail page and supporting records before publishing any such fact. Keep unknown details explicitly unknown rather than borrowing another brand's claims.
 
 ## Comparison summary
 
