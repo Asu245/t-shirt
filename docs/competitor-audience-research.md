@@ -94,7 +94,7 @@ These are deliberately short design hypotheses. They are not real people, demogr
 - **Page should help by:** Pairing a coherent visual identity with specific, verified product information.
 - **Evidence status:** Assumption; not validated.
 
-**Recommended audience to test first:** The design-conscious shopper, with the practical minimalist as a contrasting secondary hypothesis. This recommendation is consistent with Min's existing modernist visual direction, but it remains provisional until the learner confirms it and obtains real feedback.
+**Learner decision (2026-11-23):** The practical minimalist is the primary audience; the design-conscious shopper is the contrasting secondary hypothesis. This is a learner-selected design hypothesis, not validated customer research. The page should first make the everyday shirt easy to understand and choose, while still providing enough design and garment information for a more detail-oriented visitor.
 
 ## Connection to Min's current decisions
 
