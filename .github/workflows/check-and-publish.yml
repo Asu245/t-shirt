@@ -19,7 +19,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - name: Temporary diagnostic: show Prettier's Markdown formatting
+      - name: "Temporary diagnostic - Prettier Markdown formatting"
         run: |
           npx prettier --write README.md SPEC.md docs/competitor-audience-research.md
           git diff -- README.md SPEC.md docs/competitor-audience-research.md
