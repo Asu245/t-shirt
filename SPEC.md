@@ -8,7 +8,7 @@ This is the durable agreement between the learner and agent. Keep it concise and
 
 - Stage: BRAND-001 implementation in progress; selected identity applied locally.
 - Current feature: `BRAND-001` — first branded storefront and live style guide.
-- Status: Learner selected the modernist preview, approved the shared hero copy and SVG wordmark, approved two proposed ethical elements, chose to keep the current layout after desktop/mobile observations, and adopted a secondary audience hypothesis about a plain layer. The learner explained that Min's T-shirt can be there for someone who needs a white shirt to layer; this remains an unvalidated design hypothesis. The styling-tip benefit is accepted from an AI example; the learner explained how the inclusive line could help. Implementation is local and the full prepared check passes; test interpretation, issue update, and remaining project review are open.
+- Status: Learner selected the modernist preview, approved the shared hero copy and SVG wordmark, approved two proposed ethical elements, and chose to keep the current layout after desktop/mobile observations. On 2026-11-23, the learner confirmed the practical minimalist as the primary audience and the design-conscious shopper as the contrasting secondary hypothesis. These are design hypotheses, not validated customer research. An earlier plain-layer idea remains documented in LEARNING.md as an explored alternative, not the current secondary persona. The styling-tip benefit is accepted from an AI example; the learner explained how the inclusive line could help. Implementation is on main and the full prepared check was previously recorded as passing; test interpretation, final current-branch check, issue retries, and remaining project review are open.
 - Next small decision: The actual test interpretation remains unaddressed; leave it open unless the learner wants to return to it.
 
 ## Product boundary
@@ -19,11 +19,11 @@ The product stays the same white T-shirt in both previews. The baseline has a si
 
 | Tiny card                    | Primary audience                                                                                                 | Secondary audience                                                                              |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Situation                    | Someone who does not know what else to wear and needs a simple shirt to throw on; broad audience is a hypothesis | Someone seeking a plain layer under other clothes                                               |
-| Goal or meaning              | An easy default when getting dressed feels uncertain                                                             | An uncomplicated white layer; learner reason: Min's shirt can be there for someone who needs it |
-| Concern                      | Not chosen yet                                                                                                   | Not chosen yet                                                                                  |
-| Page should help them decide | What to wear more easily and with less time spent pondering (learner paraphrase)                                 | Not chosen yet                                                                                  |
-| Evidence                     | Assumption; not validated                                                                                        | Learner adopted an AI-proposed hypothesis and explained why it may help; not validated          |
+| Situation                    | Someone who does not know what else to wear and needs a simple shirt to throw on; broad audience is a hypothesis | Someone who wants an understated shirt and pays attention to presentation, silhouette, and garment details |
+| Goal or meaning              | An easy default when getting dressed feels uncertain                                                             | Understand the design and whether the garment suits the intended use                            |
+| Concern                      | Not chosen yet                                                                                                   | A minimal page may omit useful product facts                                                     |
+| Page should help them decide | What to wear more easily and with less time spent pondering (learner paraphrase)                                 | Whether the shirt suits their preferences, using only verified product information              |
+| Evidence                     | Learner-confirmed design hypothesis on 2026-11-23; not validated                                                | Learner-confirmed contrasting design hypothesis on 2026-11-23; not validated                     |
 
 ## Early brand brief
 
@@ -90,5 +90,5 @@ No follow-up is selected. After keeping `BRAND-001`, choose one next cycle: perh
 ## Competitor research review
 
 - **Research document:** [Competitor and audience research](docs/competitor-audience-research.md), with official UNIQLO, COS, and Everlane source links and an access date of 2026-11-23.
-- **Status:** Draft research is on branch `research/competitor-audience-review`. Its audience cards and suggested positioning are hypotheses, not new learner-approved brand decisions or customer findings. The learner/reviewer should inspect the source pages and confirm or revise the proposed direction before it is adopted.
+- **Status:** Research draft is on branch `research/competitor-audience-review`. Learner confirmed the practical minimalist as primary and design-conscious shopper as secondary on 2026-11-23. Both remain unvalidated design hypotheses, not customer findings.
 - **Research-to-feature trace:** The document maps observed competitor page patterns to proposed Min features and planned checks. Planned checks are not reported as completed results.
