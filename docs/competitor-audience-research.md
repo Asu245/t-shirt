@@ -44,11 +44,11 @@ I reviewed the official US T-shirt collection or fit/product pages linked below.
 
 ## Comparison summary
 
-| Brand | Look and presentation | Brand character suggested by the pages | Persuasion approach observed |
-|---|---|---|---|
-| UNIQLO | Functional categories and dense product choice | Practical and accessible | Product range, visible prices, ratings and material labels on listings |
-| COS | Editorial product styling and fit-led categories | Design-conscious and refined | Fit descriptions, styling context and garment details |
-| Everlane | Product and fabric categories with detailed product pages | Considered and information-led | Materials, care, size guidance and product-level standards |
+| Brand    | Look and presentation                                     | Brand character suggested by the pages | Persuasion approach observed                                           |
+| -------- | --------------------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------------- |
+| UNIQLO   | Functional categories and dense product choice            | Practical and accessible               | Product range, visible prices, ratings and material labels on listings |
+| COS      | Editorial product styling and fit-led categories          | Design-conscious and refined           | Fit descriptions, styling context and garment details                  |
+| Everlane | Product and fabric categories with detailed product pages | Considered and information-led         | Materials, care, size guidance and product-level standards             |
 
 These are interpretations of the pages, not claims about the companies' internal brand strategy or customers.
 
@@ -110,12 +110,12 @@ Those are useful foundations for honest persuasion. The styling suggestion offer
 
 ## Research-to-feature trace
 
-| Research finding | Proposed feature or design decision | Check to perform | Check status |
-|---|---|---|---|
+| Research finding                                                            | Proposed feature or design decision                                                             | Check to perform                                                                                                                                       | Check status                                                                                                               |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
 | UNIQLO groups basics by product type and makes product information visible. | Keep Min's single-product page focused; make size choice and the primary action easy to locate. | In a browser, locate the size choices and add-to-demo-bag action at desktop and narrow widths; confirm the existing size-required message still works. | Planned here; prior automated checks are recorded in SPEC.md. A new manual check has not been performed for this research. |
-| COS explains fit categories and garment shape. | Add fit guidance only after Min's actual fit and measurements are supplied. | Compare every published fit statement with approved garment measurements and verify that the guide is readable on mobile. | Not performed; product facts are not supplied. |
-| Everlane exposes materials, care and size details at product level. | Add a concise product-facts section when Min has verified material and care data. | Trace each displayed fact to a supplier/product record; remove any unsupported claim. | Not performed; product facts are not supplied. |
-| Min's current modernist direction has a clear headline hierarchy. | Test Position B against Position A without changing the underlying product facts. | Ask a reviewer to identify the audience and main product action from the page; record the actual feedback before revising. | Planned; no reviewer test result is claimed. |
+| COS explains fit categories and garment shape.                              | Add fit guidance only after Min's actual fit and measurements are supplied.                     | Compare every published fit statement with approved garment measurements and verify that the guide is readable on mobile.                              | Not performed; product facts are not supplied.                                                                             |
+| Everlane exposes materials, care and size details at product level.         | Add a concise product-facts section when Min has verified material and care data.               | Trace each displayed fact to a supplier/product record; remove any unsupported claim.                                                                  | Not performed; product facts are not supplied.                                                                             |
+| Min's current modernist direction has a clear headline hierarchy.           | Test Position B against Position A without changing the underlying product facts.               | Ask a reviewer to identify the audience and main product action from the page; record the actual feedback before revising.                             | Planned; no reviewer test result is claimed.                                                                               |
 
 ## AI assistance and verification
 
