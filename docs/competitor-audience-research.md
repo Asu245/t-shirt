@@ -72,7 +72,7 @@ These are interpretations of the pages, not claims about the companies' internal
 - **Strength:** Builds on Min's existing modernist direction and warm visual system.
 - **Risk:** Minimal presentation can become vague if product facts and the visitor's next step are hard to find.
 
-**Research recommendation:** Position B is the stronger direction to test because it connects the existing modernist visual decision with more specific product communication. This is a recommendation, not a recorded learner decision. Confirm or revise it with the learner before treating it as the final brand position.
+**Visual-direction note:** Position B describes a possible way to present Min's existing modernist direction; it does not change the learner's audience decision. The practical minimalist remains the primary audience. Evaluate any page treatment by whether it helps that visitor quickly understand the shirt and make an informed choice, while keeping enough detail for the secondary design-conscious shopper.
 
 ## Two persona hypotheses
 
