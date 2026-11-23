@@ -85,3 +85,10 @@ Keep when:
 ## Later
 
 No follow-up is selected. After keeping `BRAND-001`, choose one next cycle: perhaps a brand story, a supported fit guide, or richer demo-bag behavior. Agree its scope and add one new spec ID at that time.
+
+
+## Competitor research review
+
+- **Research document:** [Competitor and audience research](docs/competitor-audience-research.md), with official UNIQLO, COS, and Everlane source links and an access date of 2026-11-23.
+- **Status:** Draft research is on branch `research/competitor-audience-review`. Its audience cards and suggested positioning are hypotheses, not new learner-approved brand decisions or customer findings. The learner/reviewer should inspect the source pages and confirm or revise the proposed direction before it is adopted.
+- **Research-to-feature trace:** The document maps observed competitor page patterns to proposed Min features and planned checks. Planned checks are not reported as completed results.
